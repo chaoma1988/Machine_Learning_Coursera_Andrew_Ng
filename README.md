@@ -1,3 +1,4 @@
 # Machine_Learning_Coursera_Andrew_Ng
-This is my solutions to the Coursera online course on machine learning by Andrew Ng. 
-Notice, only the files that need to be completed is uploaded. 
+(1) This is my solutions to the Coursera online course on machine learning by Andrew Ng. 
+(2) Notice, only the files that need to be completed is uploaded. 
+(3) This course is studied in July 2018. 
